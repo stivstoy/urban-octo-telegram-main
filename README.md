@@ -23,8 +23,6 @@ acceptance Criteria
 ## Website
 https://stivstoy.github.io/urban-octo-telegram-main/
 
-![image](https://user-images.githubusercontent.com/87504797/128961459-bc464da8-4bb8-46f2-873d-76837290c382.png)
-
 ## Contribution
 Made with ❤️ by Steve Hutson
 
